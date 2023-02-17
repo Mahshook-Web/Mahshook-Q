@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on Quantum Computing, Data Science and AI related projects in my free time.
 
-- 💬 Ask me about Quantum Mechanics, Introductory Quantum Computing and Communications, Machine Learning and Data Science, and advancements in Quantum technology related areas.
+- 💬 Ask me about Quantum Mechanics, Introductory Quantum Computing and Communication, Machine Learning and Data Science, and advancements in Quantum technology related areas.
 
 - 📫 You can reach me at mohammedmahshook70@gmail.com.
 
