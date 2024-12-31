@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQFYBWP5DpT9sg/profile-displaybackgroundimage-shrink_350_1400/0/1676540935200?e=1681948800&v=beta&t=JOVUauOFBfNL-U4t5zpfmOTgjBM9jKePIyFQ0bqOHIA)
 <h1 align="center">Hi, I'm Mohammed Mahshook</h1>
-<h3 align="center">An aspiring Quantum Physicist from India</h3>
+<h3 align="center"> A Ph.D. scholar working in Materials Informatics </h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP._J8lc8P4-gHdWmIYF5gYkAHaE7?w=261&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7">
 - 🔭 I’m currently working towards improving multiple qubit gate fidelities in a neutral atom-based Quantum Computing architecture. I also explore the effective implementation of quantum algorithms for near-term devices.
 
